@@ -5,13 +5,13 @@
 	<artifactId>com.skplanet.plalab</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>PlaLab</name>
-	
+
 	<properties>
-	<java-version>1.8</java-version>
-	<junit-version>4.11</junit-version>
+		<java-version>1.8</java-version>
+		<junit-version>4.11</junit-version>
 	</properties>
-	
-	
+
+
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
