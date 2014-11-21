@@ -1,4 +1,8 @@
-## eclipse에서 코드 가져가는 방법
+## 프로젝트 세팅 
+- JDK 1.8 
+- Eclipse Luna
+
+## Eclipse에서 코드 가져가는 방법
 [EGit](http://eclipse.org/egit/download/) 플러그인 설치 
 ## Commandline에서 코드 가져가는 방법 
 [Git](http://git-scm.com/downloads) 설치 
