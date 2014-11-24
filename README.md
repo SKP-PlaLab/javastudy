@@ -1,6 +1,7 @@
 ## 프로젝트 세팅 
 - JDK 1.8 
 - Eclipse Luna
+- Maven Eclipse Plugin or Maven 설치 
 
 ## Eclipse에서 코드 가져가는 방법
 [EGit](http://eclipse.org/egit/download/) 플러그인 설치 
