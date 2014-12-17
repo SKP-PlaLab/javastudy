@@ -1,4 +1,4 @@
-package com.skplanet.plalab.ez2sugul.operator;
+package com.skplanet.plalab.ez2sugul;
 
 public class OperatorExercise8 {
 	public static void main(String[] args) {

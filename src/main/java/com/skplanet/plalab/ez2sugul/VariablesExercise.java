@@ -1,4 +1,4 @@
-package com.skplanet.plalab.ez2sugul.variables;
+package com.skplanet.plalab.ez2sugul;
 
 public class VariablesExercise {
 	

@@ -1,4 +1,4 @@
-package com.skplanet.plalab.ez2sugul.loop;
+package com.skplanet.plalab.ez2sugul;
 
 public class ReverseTriangle {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.skplanet.plalab.ez2sugul.condition;
+package com.skplanet.plalab.ez2sugul;
 
 public class DropHundredValue {
 	public static void main(String[] args) {
