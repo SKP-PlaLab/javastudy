@@ -1,4 +1,4 @@
-package com.skplanet.plalab.h2hyun37.study02;
+package com.skplanet.plalab.h2hyun37;
 
 public class Exercise3_8 {
 
